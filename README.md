@@ -4,7 +4,7 @@
 
 A one-click **glTF 2.0 / GLB importer for Autodesk 3ds Max 2024–2025-2026**. No dependencies, no pip packages — just drag, install, and import.
 
-![Max versions](https://img.shields.io/badge/3ds_Max-2024_|_2025_|_2026_) ![License](https://img.shields.io/badge/license-MIT-green)
+![Max versions](https://camo.githubusercontent.com/725d7d18503ef82dd2a60f9e8d765c71b3ae9f4901047f764837b01be981b1ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f3364735f4d61782d323032345f2537435f323032355f2537435f323032362d626c7565) ![License](https://img.shields.io/badge/license-MIT-green)
 
 ---
 
