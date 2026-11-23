@@ -2,9 +2,9 @@
 
 **Created by Fady Derias**
 
-A one-click **glTF 2.0 / GLB importer for Autodesk 3ds Max 2024–2026**. No dependencies, no pip packages — just drag, install, and import.
+A one-click **glTF 2.0 / GLB importer for Autodesk 3ds Max 2024–2025**. No dependencies, no pip packages — just drag, install, and import.
 
-![Max versions](https://img.shields.io/badge/3ds_Max-2024_|_2025_|_2026-blue) ![License](https://img.shields.io/badge/license-MIT-green)
+![Max versions](https://img.shields.io/badge/3ds_Max-2024_|_2025_) ![License](https://img.shields.io/badge/license-MIT-green)
 
 ---
 
@@ -22,7 +22,7 @@ A one-click **glTF 2.0 / GLB importer for Autodesk 3ds Max 2024–2026**. No dep
 
 ## 📋 Requirements
 
-- Autodesk 3ds Max **2024, 2025 or 2026**
+- Autodesk 3ds Max **2024, 2025**
 - Nothing else. The Python backend uses only the standard library + `pymxs`.
 
 ## 📦 What's in the box
